@@ -1,12 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hi 👋</h1>
   
-
 ### <div align="center">I'm Paulo José, a full-time Senior iOS Developer 👨‍💻🍎 🚀</div>  
-  
 
-- 🔭 I’m currently working on Via Varej by Ci&T   
+<br/>  
+  
+- 🔭 I’m currently working on Via Varejo by Ci&T   
   
 
 - 🌱 I’m currently learning SwiftUI and Combine  
@@ -90,6 +88,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paulojosecb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
+
+<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulojosecb&" alt="paulojosecb" align="center"/></div>
 
 
 ----
